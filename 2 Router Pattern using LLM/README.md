@@ -1,0 +1,1 @@
+pip install -r '.\2 Router Pattern using LLM\Requirements.txt'
