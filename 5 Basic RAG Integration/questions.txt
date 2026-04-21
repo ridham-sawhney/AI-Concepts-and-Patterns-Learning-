@@ -1,0 +1,21 @@
+rag_questions = [
+    "Which feature or module is affected? This will help identify the responsible development team.",
+    
+    "Are users facing UI issues (like components not loading) or backend/API-related issues (like missing or incorrect data)?",
+    
+    "Are there any console errors, logs, or warnings that indicate rendering, API, or system issues?",
+    
+    "Did this issue start after a recent deployment or release? This helps check with the DevOps team.",
+    
+    "Were there any recent changes or new features added to this module?",
+    
+    "Is the issue happening in production, staging, or both environments?",
+    
+    "Is the issue affecting all users or only specific users?",
+    
+    "Are backend APIs working correctly, or is the issue only on the frontend side?",
+    
+    "Do you need help reproducing the issue so that QA can validate it?",
+    
+    "Should I involve the relevant teams (Frontend, Backend, DevOps, QA) based on the issue analysis?"
+]

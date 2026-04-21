@@ -1,0 +1,174 @@
+# DevOps Team – Internal Directory
+
+## Team Scope
+
+Handles:
+
+* CI/CD pipelines
+* Cloud infrastructure (AWS, Azure, GCP)
+* Containerization and orchestration
+* Deployment and release management
+* Monitoring, logging, and alerting
+* Infrastructure automation
+
+---
+
+## Team Members
+
+### 1. Karan Patel
+
+* Role: Senior DevOps Engineer
+* Experience: 9 years
+* Expertise: CI/CD pipelines, Kubernetes, production deployments
+* Skill Level: Expert
+* Primary Keywords: deployment failure, pipeline issue, CI/CD error, release issue
+* Secondary Skills: Docker, Helm, GitHub Actions
+* Tools Used: Jenkins, Kubernetes, Docker, ArgoCD
+* Desk Location: Floor 5, Bay D12
+* Availability: 10 AM – 6 PM
+* Contact: [karan.patel@company.com](mailto:karan.patel@company.com)
+* Priority Level: High
+
+---
+
+### 2. Anjali Mehta
+
+* Role: Cloud Engineer
+* Experience: 6 years
+* Expertise: AWS infrastructure, EC2, S3, IAM
+* Skill Level: Expert
+* Primary Keywords: cloud issue, AWS error, server down, IAM permission
+* Secondary Skills: Terraform, cost optimization
+* Tools Used: AWS Console, Terraform, CloudFormation
+* Desk Location: Floor 5, Bay D08
+* Availability: 11 AM – 7 PM
+* Contact: [anjali.mehta@company.com](mailto:anjali.mehta@company.com)
+* Priority Level: High
+
+---
+
+### 3. Rohit Sharma
+
+* Role: DevOps Engineer
+* Experience: 4 years
+* Expertise: Docker, containerization, microservices deployment
+* Skill Level: Intermediate
+* Primary Keywords: container issue, docker error, image build failure
+* Secondary Skills: Kubernetes basics
+* Tools Used: Docker, Docker Compose
+* Desk Location: Floor 5, Bay D15
+* Availability: 9 AM – 5 PM
+* Contact: [rohit.sharma@company.com](mailto:rohit.sharma@company.com)
+* Priority Level: Medium
+
+---
+
+### 4. Sneha Iyer
+
+* Role: Site Reliability Engineer (SRE)
+* Experience: 7 years
+* Expertise: Monitoring, alerting, system reliability
+* Skill Level: Expert
+* Primary Keywords: system down, alerts, latency issue, downtime
+* Secondary Skills: incident management
+* Tools Used: Prometheus, Grafana, ELK Stack
+* Desk Location: Floor 6, Bay E02
+* Availability: 12 PM – 8 PM
+* Contact: [sneha.iyer@company.com](mailto:sneha.iyer@company.com)
+* Priority Level: High
+
+---
+
+### 5. Rahul Verma
+
+* Role: DevOps Engineer
+* Experience: 3 years
+* Expertise: CI/CD support, script automation
+* Skill Level: Intermediate
+* Primary Keywords: pipeline script error, automation issue
+* Secondary Skills: Bash, Python scripting
+* Tools Used: Jenkins, GitLab CI
+* Desk Location: Floor 5, Bay D10
+* Availability: 9 AM – 5 PM
+* Contact: [rahul.verma@company.com](mailto:rahul.verma@company.com)
+* Priority Level: Medium
+
+---
+
+### 6. Rahul Nair
+
+* Role: Junior DevOps Engineer
+* Experience: 2 years
+* Expertise: Deployment support, basic cloud tasks
+* Skill Level: Beginner
+* Primary Keywords: deployment help, basic infra issue
+* Secondary Skills: Docker basics
+* Tools Used: CI tools, cloud dashboards
+* Desk Location: Floor 5, Bay D03
+* Availability: 9 AM – 4 PM
+* Contact: [rahul.nair@company.com](mailto:rahul.nair@company.com)
+* Priority Level: Low
+
+---
+
+### 7. Vivek Desai
+
+* Role: Infrastructure Engineer
+* Experience: 8 years
+* Expertise: Infrastructure as Code, Terraform, networking
+* Skill Level: Expert
+* Primary Keywords: infra setup, terraform error, network config
+* Secondary Skills: cloud architecture
+* Tools Used: Terraform, Ansible
+* Desk Location: Floor 6, Bay E05
+* Availability: 10 AM – 6 PM
+* Contact: [vivek.desai@company.com](mailto:vivek.desai@company.com)
+* Priority Level: High
+
+---
+
+### 8. Pooja Kulkarni
+
+* Role: Release Manager
+* Experience: 6 years
+* Expertise: Release planning, deployment coordination
+* Skill Level: Expert
+* Primary Keywords: release delay, deployment schedule, version issue
+* Secondary Skills: stakeholder coordination
+* Tools Used: Jira, CI/CD dashboards
+* Desk Location: Floor 5, Bay D20
+* Availability: 10 AM – 6 PM
+* Contact: [pooja.kulkarni@company.com](mailto:pooja.kulkarni@company.com)
+* Priority Level: High
+
+---
+
+### 9. Arjun Singh
+
+* Role: Cloud Support Engineer
+* Experience: 4 years
+* Expertise: Azure services, cloud troubleshooting
+* Skill Level: Intermediate
+* Primary Keywords: azure issue, cloud login error, service failure
+* Secondary Skills: monitoring
+* Tools Used: Azure Portal, CLI tools
+* Desk Location: Floor 6, Bay E08
+* Availability: 11 AM – 7 PM
+* Contact: [arjun.singh@company.com](mailto:arjun.singh@company.com)
+* Priority Level: Medium
+
+---
+
+### 10. Neha Gupta
+
+* Role: DevOps Automation Engineer
+* Experience: 5 years
+* Expertise: Automation frameworks, CI/CD optimization
+* Skill Level: Expert
+* Primary Keywords: automation failure, pipeline optimization, script error
+* Secondary Skills: Python, Groovy
+* Tools Used: Jenkins, GitHub Actions
+* Desk Location: Floor 5, Bay D18
+* Availability: 10 AM – 6 PM
+* Contact: [neha.gupta@company.com](mailto:neha.gupta@company.com)
+* Priority Level: High
