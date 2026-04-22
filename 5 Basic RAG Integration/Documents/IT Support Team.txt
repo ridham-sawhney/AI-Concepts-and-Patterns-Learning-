@@ -1,0 +1,128 @@
+Team Scope
+Handles:
+Laptop / hardware issues
+Software & OS problems
+Network / VPN issues
+Access & permissions
+Security threats
+Team Members (Rich Data for RAG)
+1. Rahul Sharma
+Role: Senior IT Support Engineer
+Experience: 8 years
+Expertise: Laptop hardware, storage issues, SSD/HDD failures, OS reinstall
+Skill Level: Expert
+Primary Keywords: storage issue, disk full, laptop slow, SSD problem, hardware failure
+Secondary Skills: performance optimization, boot issues
+Tools Used: Disk Management, BIOS tools, cloning software
+Desk Location: Floor 3, Bay A12
+Availability: 10 AM – 6 PM
+Contact: rahul.sharma@company.com
+Priority Level: High
+2. Amit Verma
+Role: IT Support Engineer
+Experience: 4 years
+Expertise: Software installation, application crashes, updates
+Skill Level: Intermediate
+Primary Keywords: software error, install issue, app crash
+Secondary Skills: OS troubleshooting
+Tools Used: Package managers, installers
+Desk Location: Floor 3, Bay A09
+Availability: 9 AM – 5 PM
+Contact: amit.verma@company.com
+Priority Level: Medium
+3. Sneha Kulkarni
+Role: Network Specialist
+Experience: 7 years
+Expertise: WiFi issues, VPN, network latency
+Skill Level: Expert
+Primary Keywords: wifi issue, VPN error, network slow
+Secondary Skills: firewall configuration
+Tools Used: Wireshark, network analyzers
+Desk Location: Floor 2, Bay B21
+Availability: 11 AM – 7 PM
+Contact: sneha.kulkarni@company.com
+Priority Level: High
+4. Rahul Gupta
+Role: Desktop Support Technician
+Experience: 1.5 years
+Expertise: Peripheral setup, basic fixes
+Skill Level: Beginner
+Primary Keywords: keyboard issue, mouse issue, monitor not working
+Secondary Skills: system setup
+Tools Used: basic diagnostic tools
+Desk Location: Floor 1, Helpdesk
+Availability: 9 AM – 4 PM
+Contact: rahul.gupta@company.com
+Priority Level: Low
+5. Priya Singh
+Role: IT Asset Manager
+Experience: 5 years
+Expertise: Device allocation, replacements, inventory
+Skill Level: Intermediate
+Primary Keywords: new laptop, replacement, asset request
+Secondary Skills: procurement coordination
+Tools Used: asset tracking systems
+Desk Location: Floor 2, Bay C05
+Availability: 10 AM – 6 PM
+Contact: priya.singh@company.com
+Priority Level: Medium
+6. Arjun Nair
+Role: Security Engineer
+Experience: 6 years
+Expertise: Malware, antivirus, system threats
+Skill Level: Expert
+Primary Keywords: virus, malware, suspicious activity, security breach
+Secondary Skills: endpoint protection
+Tools Used: antivirus suites, security scanners
+Desk Location: Floor 4, Secure Zone
+Availability: 12 PM – 8 PM
+Contact: arjun.nair@company.com
+Priority Level: High
+7. Neha Patil
+Role: System Administrator
+Experience: 7 years
+Expertise: OS issues, permissions, system performance
+Skill Level: Expert
+Primary Keywords: system slow, permission denied, OS issue
+Secondary Skills: server management
+Tools Used: system monitors, admin tools
+Desk Location: Floor 3, Bay A15
+Availability: 10 AM – 6 PM
+Contact: neha.patil@company.com
+Priority Level: High
+8. Rohit Jain
+Role: IT Support Engineer
+Experience: 3 years
+Expertise: General troubleshooting
+Skill Level: Intermediate
+Primary Keywords: general issue, system not working
+Secondary Skills: basic networking
+Tools Used: diagnostic tools
+Desk Location: Floor 1, Helpdesk
+Availability: 9 AM – 5 PM
+Contact: rohit.jain@company.com
+Priority Level: Medium
+9. Ankit Mehta
+Role: Storage & Backup Specialist
+Experience: 6 years
+Expertise: Disk space management, backups, recovery
+Skill Level: Expert
+Primary Keywords: backup, disk full, data recovery, storage optimization
+Secondary Skills: cloud storage
+Tools Used: backup tools, recovery software
+Desk Location: Floor 3, Bay A18
+Availability: 11 AM – 7 PM
+Contact: ankit.mehta@company.com
+Priority Level: High
+10. Pooja Deshmukh
+Role: Junior IT Support
+Experience: 2 years
+Expertise: Basic troubleshooting, ticket handling
+Skill Level: Beginner
+Primary Keywords: basic issue, helpdesk
+Secondary Skills: escalation handling
+Tools Used: ticketing systems
+Desk Location: Floor 1, Helpdesk
+Availability: 9 AM – 5 PM
+Contact: pooja.deshmukh@company.com
+Priority Level: Low

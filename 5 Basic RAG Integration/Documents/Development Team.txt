@@ -1,0 +1,175 @@
+# Development Team Internal Directory
+
+## Team Scope
+
+Handles:
+
+* Feature development (frontend & backend)
+* Bug fixing and issue resolution
+* API development and integration
+* UI/UX improvements
+* Performance optimization
+* Production issue debugging
+
+---
+
+## Team Members
+
+### 1. Rohan Mehta
+
+* Role: Senior Frontend Developer
+* Experience: 7 years
+* Expertise: React, UI performance, state management
+* Skill Level: Expert
+* Primary Keywords: UI bug, frontend issue, component not rendering, state issue
+* Secondary Skills: accessibility, responsive design
+* Tools Used: React, Redux, Chrome DevTools
+* Desk Location: Floor 4, Bay F12
+* Availability: 10 AM – 6 PM
+* Contact: [rohan.mehta@company.com](mailto:rohan.mehta@company.com)
+* Priority Level: High
+
+---
+
+### 2. Ankit Sharma
+
+* Role: Backend Developer
+* Experience: 5 years
+* Expertise: Node.js, APIs, database handling
+* Skill Level: Expert
+* Primary Keywords: API error, backend issue, server error, database issue
+* Secondary Skills: authentication, microservices
+* Tools Used: Node.js, Express, MongoDB
+* Desk Location: Floor 4, Bay F08
+* Availability: 10 AM – 6 PM
+* Contact: [ankit.sharma@company.com](mailto:ankit.sharma@company.com)
+* Priority Level: High
+
+---
+
+### 3. Priya Verma
+
+* Role: Frontend Developer
+* Experience: 3 years
+* Expertise: UI components, styling, bug fixes
+* Skill Level: Intermediate
+* Primary Keywords: UI alignment issue, CSS bug, frontend fix
+* Secondary Skills: basic React hooks
+* Tools Used: React, CSS, Tailwind
+* Desk Location: Floor 4, Bay F05
+* Availability: 9 AM – 5 PM
+* Contact: [priya.verma@company.com](mailto:priya.verma@company.com)
+* Priority Level: Medium
+
+---
+
+### 4. Rahul Singh
+
+* Role: Backend Developer
+* Experience: 4 years
+* Expertise: API development, database queries
+* Skill Level: Intermediate
+* Primary Keywords: API failure, data mismatch, query issue
+* Secondary Skills: caching
+* Tools Used: Node.js, MySQL
+* Desk Location: Floor 4, Bay F15
+* Availability: 9 AM – 5 PM
+* Contact: [rahul.singh@company.com](mailto:rahul.singh@company.com)
+* Priority Level: Medium
+
+---
+
+### 5. Sneha Kapoor
+
+* Role: Full Stack Developer
+* Experience: 6 years
+* Expertise: frontend + backend integration
+* Skill Level: Expert
+* Primary Keywords: feature issue, integration bug, end-to-end failure
+* Secondary Skills: debugging complex flows
+* Tools Used: React, Node.js, REST APIs
+* Desk Location: Floor 4, Bay F18
+* Availability: 11 AM – 7 PM
+* Contact: [sneha.kapoor@company.com](mailto:sneha.kapoor@company.com)
+* Priority Level: High
+
+---
+
+### 6. Rahul Verma
+
+* Role: Junior Frontend Developer
+* Experience: 2 years
+* Expertise: basic UI fixes, small enhancements
+* Skill Level: Beginner
+* Primary Keywords: minor UI bug, small fix
+* Secondary Skills: HTML/CSS
+* Tools Used: React basics
+* Desk Location: Floor 4, Bay F02
+* Availability: 9 AM – 4 PM
+* Contact: [rahul.verma.dev@company.com](mailto:rahul.verma.dev@company.com)
+* Priority Level: Low
+
+---
+
+### 7. Kunal Desai
+
+* Role: Backend Architect
+* Experience: 9 years
+* Expertise: system design, scalable backend systems
+* Skill Level: Expert
+* Primary Keywords: architecture issue, scalability problem, system failure
+* Secondary Skills: distributed systems
+* Tools Used: Node.js, Kafka, Redis
+* Desk Location: Floor 5, Bay G10
+* Availability: 10 AM – 6 PM
+* Contact: [kunal.desai@company.com](mailto:kunal.desai@company.com)
+* Priority Level: High
+
+---
+
+### 8. Neha Joshi
+
+* Role: QA + Frontend Support
+* Experience: 4 years
+* Expertise: bug reproduction, UI validation
+* Skill Level: Intermediate
+* Primary Keywords: bug reproduction, UI validation, issue verification
+* Secondary Skills: test case writing
+* Tools Used: Selenium, manual testing
+* Desk Location: Floor 4, Bay F20
+* Availability: 9 AM – 5 PM
+* Contact: [neha.joshi@company.com](mailto:neha.joshi@company.com)
+* Priority Level: Medium
+
+---
+
+### 9. Arjun Malhotra
+
+* Role: Backend Developer
+* Experience: 5 years
+* Expertise: APIs, authentication, security
+* Skill Level: Expert
+* Primary Keywords: login issue, auth failure, token issue
+* Secondary Skills: encryption
+* Tools Used: Node.js, JWT
+* Desk Location: Floor 4, Bay F22
+* Availability: 10 AM – 6 PM
+* Contact: [arjun.malhotra@company.com](mailto:arjun.malhotra@company.com)
+* Priority Level: High
+
+---
+
+### 10. Pooja Nair
+
+* Role: Full Stack Developer
+* Experience: 5 years
+* Expertise: debugging production issues, feature fixes
+* Skill Level: Expert
+* Primary Keywords: production bug, feature not working, unexpected behavior
+* Secondary Skills: logging and monitoring
+* Tools Used: React, Node.js
+* Desk Location: Floor 5, Bay G05
+* Availability: 11 AM – 7 PM
+* Contact: [pooja.nair@company.com](mailto:pooja.nair@company.com)
+* Priority Level: High
+
