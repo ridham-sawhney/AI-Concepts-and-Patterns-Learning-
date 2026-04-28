@@ -1,6 +1,7 @@
  # --- Environment / Secrets ---
 .env
 .venv/
+*.db*
 env/
 venv/
 ENV/
