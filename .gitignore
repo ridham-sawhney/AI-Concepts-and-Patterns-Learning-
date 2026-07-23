@@ -22,3 +22,5 @@ __pycache__/
 logs/*.logs
 logs/*
 
+*/input_pdfs/*
+*/parsed_output/*
